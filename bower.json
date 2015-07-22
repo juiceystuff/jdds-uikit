@@ -2,13 +2,12 @@
   "name": "jdds-uikit",
   "version": "1.0.0",
   "description": "JDDS framework template using uikit",
-  "main": [
-    "images",
-    "index.php"
-  ],
+
   "dependencies": {
     "uikit": ">=2.21.0",
-    "jquery": ">= 1.9.0"
+    "jquery": ">= 1.9.0",
+    "index.php",
+    "images"
   },
   "ignore": [
     "node_modules",
